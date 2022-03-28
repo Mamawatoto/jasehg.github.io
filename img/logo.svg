@@ -3,8 +3,8 @@
 
 <svg
    width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   height="149mm"
+   viewBox="0 0 210 149"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
@@ -26,12 +26,12 @@
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.49798681"
-     inkscape:cx="397.60089"
+     inkscape:cx="-235.95002"
      inkscape:cy="561.25984"
      inkscape:window-width="1341"
      inkscape:window-height="768"
-     inkscape:window-x="199"
-     inkscape:window-y="102"
+     inkscape:window-x="56"
+     inkscape:window-y="65"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1">
     <sodipodi:guide
@@ -45,142 +45,146 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <ellipse
-       style="fill:#88aa00;fill-rule:evenodd;stroke-width:0.241887"
-       id="path103"
-       cx="58.167847"
-       cy="166.43175"
-       rx="21.72514"
-       ry="62.273193" />
-    <ellipse
-       style="fill:#008080;fill-rule:evenodd;stroke-width:0.260831"
-       id="path103-9"
-       cx="84.53688"
-       cy="165.44391"
-       rx="21.72514"
-       ry="72.409302" />
-    <ellipse
-       style="fill:#00ff00;fill-rule:evenodd;stroke-width:0.154464"
-       id="path103-9-0"
-       cx="184.35423"
-       cy="178.45206"
-       rx="21.72514"
-       ry="25.393934" />
-    <ellipse
-       style="fill:#ff6600;fill-rule:evenodd;stroke-width:0.154464"
-       id="path103-9-0-9"
-       cx="154.83774"
-       cy="178.06932"
-       rx="21.72514"
-       ry="25.393934" />
-    <ellipse
-       style="fill:#ff0000;fill-rule:evenodd;stroke-width:0.154464"
-       id="path103-9-0-9-3"
-       cx="130.21886"
-       cy="179.54749"
-       rx="21.72514"
-       ry="25.393934" />
-    <ellipse
-       style="fill:#808000;fill-rule:evenodd;stroke-width:0.0466923"
-       id="path103-9-0-2"
-       cx="99.275436"
-       cy="169.10162"
-       rx="6.5348949"
-       ry="7.7141905" />
-    <ellipse
-       style="fill:#ffff00;fill-rule:evenodd;stroke-width:0.0466923"
-       id="path103-9-0-2-2"
-       cx="93.648178"
-       cy="189.81703"
-       rx="6.5348949"
-       ry="7.7141905" />
-    <ellipse
-       style="fill:#008000;fill-rule:evenodd;stroke-width:0.0466923"
-       id="path103-9-0-2-2-5"
-       cx="85.528496"
-       cy="207.00528"
-       rx="6.5348949"
-       ry="7.7141905" />
-    <ellipse
-       style="fill:#ff0000;fill-rule:evenodd;stroke-width:0.0466923"
-       id="path103-9-0-2-2-5-2"
-       cx="106.25086"
-       cy="205.55762"
-       rx="6.5348949"
-       ry="7.7141905" />
-    <path
-       sodipodi:type="star"
-       style="fill:#ffd42a;fill-rule:evenodd"
-       id="path127"
-       inkscape:flatsided="false"
-       sodipodi:sides="5"
-       sodipodi:cx="408.04037"
-       sodipodi:cy="405.767"
-       sodipodi:r1="169.81693"
-       sodipodi:r2="84.90847"
-       sodipodi:arg1="1.9808972"
-       sodipodi:arg2="2.6092158"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="m 340.33405,561.50281 -5.45107,-112.63774 -95.87856,-59.3656 105.44038,-39.99126 26.83193,-109.5309 70.61681,87.92178 112.46161,-8.32823 -61.79679,94.32991 42.67317,104.38378 -108.80934,-29.6227 z"
-       transform="matrix(0.38241767,0,0,0.36605404,-72.515037,9.7367046)"
-       inkscape:transform-center-x="4.3444941"
-       inkscape:transform-center-y="-1.8401361" />
-    <path
-       sodipodi:type="star"
-       style="fill:#ffdd55;fill-rule:evenodd"
-       id="path127-6"
-       inkscape:flatsided="false"
-       sodipodi:sides="5"
-       sodipodi:cx="408.04037"
-       sodipodi:cy="405.767"
-       sodipodi:r1="169.81693"
-       sodipodi:r2="84.90847"
-       sodipodi:arg1="1.9808972"
-       sodipodi:arg2="2.6092158"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       transform="matrix(0.31827324,0,0,0.22896488,-50.185414,64.658912)"
-       inkscape:transform-center-x="3.6157721"
-       inkscape:transform-center-y="-1.1509942"
-       d="m 340.33405,561.50281 -5.45107,-112.63774 -95.87856,-59.3656 105.44038,-39.99126 26.83193,-109.5309 70.61681,87.92178 112.46161,-8.32823 -61.79679,94.32991 42.67317,104.38378 -108.80934,-29.6227 z" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:16.8416px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.421042"
-       x="46.154358"
-       y="129.75584"
-       id="text3209"
-       transform="scale(0.84197891,1.1876782)"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Tlwg Typo';-inkscape-font-specification:'Tlwg Typo Bold';stroke-width:0.421042"
+    <g
+       id="g46352"
+       transform="translate(-17.584202,-90.930554)">
+      <ellipse
+         style="fill:#88aa00;fill-rule:evenodd;stroke-width:0.241887"
+         id="path103"
+         cx="58.167847"
+         cy="166.43175"
+         rx="21.72514"
+         ry="62.273193" />
+      <ellipse
+         style="fill:#008080;fill-rule:evenodd;stroke-width:0.260831"
+         id="path103-9"
+         cx="84.53688"
+         cy="165.44391"
+         rx="21.72514"
+         ry="72.409302" />
+      <ellipse
+         style="fill:#00ff00;fill-rule:evenodd;stroke-width:0.154464"
+         id="path103-9-0"
+         cx="184.35423"
+         cy="178.45206"
+         rx="21.72514"
+         ry="25.393934" />
+      <ellipse
+         style="fill:#ff6600;fill-rule:evenodd;stroke-width:0.154464"
+         id="path103-9-0-9"
+         cx="154.83774"
+         cy="178.06932"
+         rx="21.72514"
+         ry="25.393934" />
+      <ellipse
+         style="fill:#ff0000;fill-rule:evenodd;stroke-width:0.154464"
+         id="path103-9-0-9-3"
+         cx="130.21886"
+         cy="179.54749"
+         rx="21.72514"
+         ry="25.393934" />
+      <ellipse
+         style="fill:#808000;fill-rule:evenodd;stroke-width:0.0466923"
+         id="path103-9-0-2"
+         cx="99.275436"
+         cy="169.10162"
+         rx="6.5348949"
+         ry="7.7141905" />
+      <ellipse
+         style="fill:#ffff00;fill-rule:evenodd;stroke-width:0.0466923"
+         id="path103-9-0-2-2"
+         cx="93.648178"
+         cy="189.81703"
+         rx="6.5348949"
+         ry="7.7141905" />
+      <ellipse
+         style="fill:#008000;fill-rule:evenodd;stroke-width:0.0466923"
+         id="path103-9-0-2-2-5"
+         cx="85.528496"
+         cy="207.00528"
+         rx="6.5348949"
+         ry="7.7141905" />
+      <ellipse
+         style="fill:#ff0000;fill-rule:evenodd;stroke-width:0.0466923"
+         id="path103-9-0-2-2-5-2"
+         cx="106.25086"
+         cy="205.55762"
+         rx="6.5348949"
+         ry="7.7141905" />
+      <path
+         sodipodi:type="star"
+         style="fill:#ffd42a;fill-rule:evenodd"
+         id="path127"
+         inkscape:flatsided="false"
+         sodipodi:sides="5"
+         sodipodi:cx="408.04037"
+         sodipodi:cy="405.767"
+         sodipodi:r1="169.81693"
+         sodipodi:r2="84.90847"
+         sodipodi:arg1="1.9808972"
+         sodipodi:arg2="2.6092158"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 340.33405,561.50281 -5.45107,-112.63774 -95.87856,-59.3656 105.44038,-39.99126 26.83193,-109.5309 70.61681,87.92178 112.46161,-8.32823 -61.79679,94.32991 42.67317,104.38378 -108.80934,-29.6227 z"
+         transform="matrix(0.38241767,0,0,0.36605404,-72.515037,9.7367046)"
+         inkscape:transform-center-x="4.3444941"
+         inkscape:transform-center-y="-1.8401361" />
+      <path
+         sodipodi:type="star"
+         style="fill:#ffdd55;fill-rule:evenodd"
+         id="path127-6"
+         inkscape:flatsided="false"
+         sodipodi:sides="5"
+         sodipodi:cx="408.04037"
+         sodipodi:cy="405.767"
+         sodipodi:r1="169.81693"
+         sodipodi:r2="84.90847"
+         sodipodi:arg1="1.9808972"
+         sodipodi:arg2="2.6092158"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         transform="matrix(0.31827324,0,0,0.22896488,-50.185414,64.658912)"
+         inkscape:transform-center-x="3.6157721"
+         inkscape:transform-center-y="-1.1509942"
+         d="m 340.33405,561.50281 -5.45107,-112.63774 -95.87856,-59.3656 105.44038,-39.99126 26.83193,-109.5309 70.61681,87.92178 112.46161,-8.32823 -61.79679,94.32991 42.67317,104.38378 -108.80934,-29.6227 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:16.8416px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.421042"
          x="46.154358"
          y="129.75584"
-         id="tspan15849">Mamawatoto NFT Hub</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.6385px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.365963"
-       x="66.103783"
-       y="124.77192"
-       id="text3209-5"
-       transform="scale(0.74288242,1.346108)"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Tlwg Typo';-inkscape-font-specification:'Tlwg Typo Bold';stroke-width:0.365963"
+         id="text3209"
+         transform="scale(0.84197891,1.1876782)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Tlwg Typo';-inkscape-font-specification:'Tlwg Typo Bold';stroke-width:0.421042"
+           x="46.154358"
+           y="129.75584"
+           id="tspan15849">Mamawatoto NFT Hub</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:14.6385px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.365963"
          x="66.103783"
          y="124.77192"
-         id="tspan15849-6">Eco School</tspan></text>
-    <ellipse
-       style="fill:#008000;stroke-width:0.264583"
-       id="path45913"
-       cx="137.94072"
-       cy="222.2617"
-       rx="10.189568"
-       ry="15.232904" />
-    <ellipse
-       style="fill:#008000;stroke-width:0.264583"
-       id="path46039"
-       cx="148.30832"
-       cy="223.97238"
-       rx="0.14506818"
-       ry="1.904192" />
+         id="text3209-5"
+         transform="scale(0.74288242,1.346108)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Tlwg Typo';-inkscape-font-specification:'Tlwg Typo Bold';stroke-width:0.365963"
+           x="66.103783"
+           y="124.77192"
+           id="tspan15849-6">Eco School</tspan></text>
+      <ellipse
+         style="fill:#008000;stroke-width:0.264583"
+         id="path45913"
+         cx="137.94072"
+         cy="222.2617"
+         rx="10.189568"
+         ry="15.232904" />
+      <ellipse
+         style="fill:#008000;stroke-width:0.264583"
+         id="path46039"
+         cx="148.30832"
+         cy="223.97238"
+         rx="0.14506818"
+         ry="1.904192" />
+    </g>
   </g>
 </svg>
