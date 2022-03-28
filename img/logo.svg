@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="149mm"
-   viewBox="0 0 210 149"
+   width="141mm"
+   height="64mm"
+   viewBox="0 0 141 64"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
@@ -26,12 +26,12 @@
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.49798681"
-     inkscape:cx="-235.95002"
+     inkscape:cx="252.01471"
      inkscape:cy="561.25984"
      inkscape:window-width="1341"
      inkscape:window-height="768"
-     inkscape:window-x="56"
-     inkscape:window-y="65"
+     inkscape:window-x="81"
+     inkscape:window-y="26"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1">
     <sodipodi:guide
@@ -47,7 +47,7 @@
      id="layer1">
     <g
        id="g46352"
-       transform="translate(-17.584202,-90.930554)">
+       transform="matrix(0.47961397,0,0,0.41102875,-8.5591199,-54.449444)">
       <ellipse
          style="fill:#88aa00;fill-rule:evenodd;stroke-width:0.241887"
          id="path103"
